@@ -16,3 +16,9 @@ echo "hello bash script"
 ```sh
 echo “hello bash script hero” > file.txt
 ```
+
+# Comments
+
+- One-line Comments
+- Multi-line Comments
+- HereDoc Delimeter

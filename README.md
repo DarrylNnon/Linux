@@ -28,3 +28,5 @@ echo “hello bash script hero” > file.txt
 In this topic, you are going to know about if statements, if-else statements, if-else if statements, conditional statements using AND and OR operators.
 
 - if statement
+
+# AND operator and OR 

@@ -30,3 +30,10 @@ In this topic, you are going to know about if statements, if-else statements, if
 - if statement
 
 # AND operator and OR 
+
+# Loops
+
+While loops: done
+Until loops: done
+For loops: done
+Break and Continue statements:done

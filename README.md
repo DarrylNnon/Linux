@@ -37,3 +37,10 @@ While loops: done
 Until loops: done
 For loops: done
 Break and Continue statements:done
+
+# Script Input
+done
+
+# Script Output
+
+- standard output and standard error

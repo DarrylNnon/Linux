@@ -1,0 +1,18 @@
+total 64
+drwxrwxrwx+ 3 codespace root      4096 Apr 25 06:19 .
+drwxr-xrwx+ 5 codespace root      4096 Apr 25 06:01 ..
+drwxrwxrwx+ 9 codespace root      4096 Apr 25 06:02 .git
+-rw-rw-rw-  1 codespace root      1073 Apr 25 06:01 LICENSE
+-rw-rw-rw-  1 codespace root       697 Apr 25 06:04 README.md
+-rwxrwxrwx  1 codespace codespace   31 Apr 25 06:19 ScriptOutput.sh
+-rwxrwxrwx  1 codespace root       131 Apr 25 06:01 andOperator.sh
+-rwxrwxrwx  1 codespace root       129 Apr 25 06:01 andOtherformat.sh
+-rwxrwxrwx  1 codespace root       127 Apr 25 06:01 breakcontinue.sh
+-rw-rw-rw-  1 codespace root        23 Apr 25 06:01 file.txt
+-rw-rw-rw-  1 codespace codespace    0 Apr 25 06:19 file1.txt
+-rw-rw-rw-  1 codespace codespace   51 Apr 25 06:17 file2.txt
+-rwxrwxrwx  1 codespace root        60 Apr 25 06:01 forloops.sh
+-rwxrwxrwx  1 codespace root        75 Apr 25 06:01 helloScript.sh
+-rwxrwxrwx  1 codespace root       118 Apr 25 06:01 ifstatement.sh
+-rwxrwxrwx  1 codespace root       101 Apr 25 06:01 untilloops.sh
+-rwxrwxrwx  1 codespace root       101 Apr 25 06:01 whileloop.sh

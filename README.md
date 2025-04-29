@@ -46,3 +46,8 @@ done
 - standard output and standard error
 
 # String Processing
+- done
+
+# Numbers and Arithmetic
+
+- Converting hexadecimal into decimal

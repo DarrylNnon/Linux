@@ -51,3 +51,5 @@ done
 # Numbers and Arithmetic
 
 - Converting hexadecimal into decimal
+
+# Declare command

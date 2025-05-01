@@ -53,3 +53,5 @@ done
 - Converting hexadecimal into decimal
 
 # Declare command
+
+# Arrays

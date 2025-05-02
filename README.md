@@ -55,3 +55,5 @@ done
 # Declare command
 
 # Arrays
+
+# Functions in bash script

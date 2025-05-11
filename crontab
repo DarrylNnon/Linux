@@ -1,0 +1,9 @@
+15 0 * * * sh /home/darryl/backup-daily.sh
+30 0 * * 1 sh /home/darryl/backup-weekly.sh
+45 0 1 * * sh /home/darryl/backup-monthly.sh
+
+explanation:
+
+Execute the daily backup script everyday at 12:15 AM
+Execute the weekly backup script every Monday at 12:30 AM
+Execute the monthly backup script the 1st of every month at 12:45 AM

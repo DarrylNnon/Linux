@@ -67,3 +67,5 @@ done
 # Introduction to SED
 
 # Debugging Bash Scripts
+
+# tar, find, and rsync commands as well as cron To automate backup task
